@@ -1,5 +1,5 @@
 # PipUpdater
-![GitHub](https://img.shields.io/github/license/Crazypersonalph/PipUpdater?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/Crazypersonalph/PipUpdater?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues/Crazypersonalph/PipUpdater?style=for-the-badge)
 
 ### Are you ever tired of having to upgrade all your packages when a new update comes, or some other thing breaks?
 Sometimes, you might have HUNDREDS of packages, and it is impossible to keep track of them.
