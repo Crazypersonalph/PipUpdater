@@ -8,5 +8,5 @@ Sometimes, you might have HUNDREDS of packages, and it is impossible to keep tra
 This is package is open-source, and in the public domain. \
 That means anybody can use, repackage, and you don't have to worry about anything when it comes to licensing.
 
-Please spread the word!
+Please spread the word! \
 Thanks!
