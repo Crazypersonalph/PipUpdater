@@ -10,7 +10,12 @@ def input_warning():
     warning = input("Are you sure you want to upgrade all of your packages? (y/n)")
     if warning == "y":
         # Need to actually make it upgrade packages
-        print(" ".join(packages.stdout.split()))
+        big_string = " ".join(packages.stdout.split())
+        packs_1 = big_string.split(' ', 1)[1]
+        packs_2 = packs_1.split(' ', 1)[1]
+        packs_3 = packs_2.split(' ', 1)[1]
+        packs_4 = packs_3.split(' ', 1)[1]
+        print(packs_4)
 
     elif warning == "n":
         print("Exiting...")
